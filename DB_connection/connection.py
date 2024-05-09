@@ -42,7 +42,7 @@ class PostgresConnection:
 
 # Example usage:
 # Replace dbname, user, password with your actual database credentials
-db = PostgresConnection(dbname='teleco', user='postgres', password='root')
+db = PostgresConnection(dbname='postgres_db', user='postgres_username', password='postgres_password')
 db.connect()
 
 # Example query

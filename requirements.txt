@@ -3,3 +3,6 @@ matplotlib
 seaborn
 scikit-learn
 streamlit
+postgres
+psycopg2
+SQLAlchemy
